@@ -1,6 +1,16 @@
 # feather-eyespi
 
-A KiCad PCB design adding an EyeSPI display connector to an Adafruit Feather board.
+A plus-size FeatherWing base board that accepts an Adafruit Feather and breaks out an EYESPI connector for eInk and TFT displays.
+
+Working with a lot of eInk and TFT displays means constantly re-wiring the EYESPI cable. This adapter cuts out that step — plug the Feather in, plug the display in, done. Single-sided board with minimal routing to keep assembly straightforward.
+
+## BOM
+
+| Part | Package | Source | Cost |
+|------|---------|--------|------|
+| EYESPI 18-pin FPC connector | — | AliExpress | $? |
+| Female headers, 2.54mm vertical SMT | 2.54mm | AliExpress | $? |
+| Resistor, 0Ω | 0805 | AliExpress | $? |
 
 ## Assembly
 
