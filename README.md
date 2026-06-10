@@ -4,7 +4,7 @@ A plus-size FeatherWing base board that accepts an Adafruit Feather and breaks o
 
 Working with a lot of eInk and TFT displays means constantly re-wiring the EYESPI cable. This adapter cuts out that step — plug the Feather in, plug the display in, done. Single-sided board with minimal routing to keep assembly straightforward.
 
-## BOM
+### BOM
 
 | Part | Package | 
 |------|---------|
@@ -12,69 +12,51 @@ Working with a lot of eInk and TFT displays means constantly re-wiring the EYESP
 | headers | Female 2.54mm vertical SMT 
 | Resistor, 0Ω | 0805 
 
-## Assembly
-
-### asm1 — Complete
+### EYESPI Connected to eInk
 
 ![asm1](pics/asm1.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm2
+### Assembled
 
 ![asm2](pics/asm2.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm3
+### 18-pin FPC 
 
 ![asm3](pics/asm3.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm4
+### Metal Business Card Stencil
 
 ![asm4](pics/asm4.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm5
+### Finish PCB Silk / Mask Etched
 
 ![asm5](pics/asm5.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm6
+### Fiber Laser Etched PCB 
 
 ![asm6](pics/asm6.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm7
+### Backside board ID
 
 ![asm7](pics/asm7.jpeg)
 
-<!-- Add description here -->
-
 ---
 
-### asm8 — Design
+### KiCAD PCB
 
 ![asm8](pics/asm8.png)
-
-<!-- Add description here -->
 
 ---
 
