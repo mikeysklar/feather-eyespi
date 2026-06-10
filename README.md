@@ -6,11 +6,11 @@ Working with a lot of eInk and TFT displays means constantly re-wiring the EYESP
 
 ## BOM
 
-| Part | Package | Source | Cost |
-|------|---------|--------|------|
-| EYESPI 18-pin FPC connector | — | AliExpress | $? |
-| Female headers, 2.54mm vertical SMT | 2.54mm | AliExpress | $? |
-| Resistor, 0Ω | 0805 | AliExpress | $? |
+| Part | Package | 
+|------|---------|
+| EYESPI | 18-pin FPC connector 
+| headers | Female 2.54mm vertical SMT 
+| Resistor, 0Ω | 0805 
 
 ## Assembly
 
