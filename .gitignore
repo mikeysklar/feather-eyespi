@@ -1,0 +1,8 @@
+# KiCad
+*.kicad_prl
+_autosave-*
+feather-eyespi/feather-eyespi-backups/
+fp-info-cache
+
+# macOS
+.DS_Store
